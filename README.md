@@ -1,7 +1,12 @@
 # battleship-part-2
 WELCOME TO THE GAME
 This project is built using python and pygame!
-It consists of 4 deliverables,namely,boardnew,gamemanager,main,shipnew.
+It consists of 5 deliverables namely 
+1.boardnew
+2.gamemanager
+3.main 
+4.shipnew
+5.filemanager
 Key features of this project:
 1.Users can select Manual or Automatic ship placement
 2.Show ship status(if it is floating or has been sunk)
